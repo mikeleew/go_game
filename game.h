@@ -194,7 +194,7 @@ class Game
             //game_resources = GameResources();
            // game_resources.init(size, "textures/shinkaya3.png", "shaders/sprite.vs", "shaders/sprite.fs",
                             //    "shaders/geometry.vs", "shaders/geometry.fs");
-           game_resources.init(size, "textures/shinkaya3.png", "shaders/sprite.vs", "shaders/sprite.fs",
+           game_resources.init(size, "sprite_sheets/go_game_sprite_sheet.png", "shaders/sprite.vs", "shaders/sprite.fs",
                             "shaders/geometry.vs", "shaders/geometry.fs");
             init();
             
